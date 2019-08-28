@@ -1,4 +1,4 @@
-Python API and Evaluation Code for v2.0 and v1.0 releases of the VQA dataset.
+# VQA-v2-data-retrieval
 ===================
 ## VQA v2.0 release ##
 This release consists of
@@ -9,21 +9,6 @@ This release consists of
 
 There is only one type of task
 - Open-ended task
-
-## VQA v1.0 release ##
-This release consists of
-- Real 
-	- 82,783 MS COCO training images, 40,504 MS COCO validation images and 81,434 MS COCO testing images (images are obtained from [MS COCO website] (http://mscoco.org/dataset/#download))
-	- 248,349 questions for training, 121,512 questions for validation and 244,302 questions for testing (3 per image)
-	- 2,483,490 answers for training and 1,215,120 answers for validation (10 per question)
-- Abstract
-	- 20,000 training images, 10,000 validation images and 20,000 MS COCO testing images
-	- 60,000 questions for training, 30,000 questions for validation and 60,000 questions for testing (3 per image)
-	- 600,000 answers for training and 300,000 answers for validation (10 per question)
-
-There are two types of tasks
-- Open-ended task
-- Multiple-choice task (18 choices per question)
 
 ## Requirements ##
 - python 2.7
@@ -78,4 +63,4 @@ There are two types of tasks
 - Aishwarya Agrawal (Virginia Tech)
 - Code for API is based on [MSCOCO API code](https://github.com/pdollar/coco).
 - The format of the code for evaluation is based on [MSCOCO evaluation code](https://github.com/tylin/coco-caption).
-# VQA-v2-data-retrieval
+
