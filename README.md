@@ -1,5 +1,5 @@
 # VQA-v2-data-retrieval
-===================
+
 ## VQA v2.0 release ##
 This release consists of
 - Real 
